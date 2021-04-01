@@ -14,3 +14,31 @@ https://projecteuler.net
 8. [ ] Recursion
 9. [ ] custom data structures (object oriented programming)
 10. [ ] Binary search
+
+---
+
+Template: 
+
+---
+
+## Algo: DFS
+
+### Description: 
+
+[image] and a brief description about the algo.
+
+### Code Example
+
+```
+hello world
+```
+
+### Time complexity / Space Complexity
+
+```
+O2 , log(N), N2...
+```
+
+### Resources
+
+- Link A, B, C
