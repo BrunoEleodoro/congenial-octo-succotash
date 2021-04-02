@@ -26,7 +26,11 @@ hello world
 ### Time complexity / Space Complexity
 
 ```
-O2 , log(N), N2...
+O(V+E)
+- V = vertices
+- E = edges
+
+Linear notation.
 ```
 
 ### Resources
